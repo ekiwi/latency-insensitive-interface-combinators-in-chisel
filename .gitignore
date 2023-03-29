@@ -1,0 +1,7 @@
+# scala
+.bsp/
+target/
+project/target/
+
+# ide
+.idea/
